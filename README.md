@@ -23,10 +23,8 @@ Generate automapper class which allows to automap values from Class to Class.
  * Specific Attributes mapping (with exclusion or inclusion strategy)
  * Name Converter Supports
  * Constructor Arguments
-
-## Todo
-
  * Handling inheritance with class discriminator
+
 
 ## Why ?
 
