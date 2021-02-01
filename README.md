@@ -1,5 +1,7 @@
 # AutoMapper
 
+test
+
 ## Description
 Taken from [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper)
 
